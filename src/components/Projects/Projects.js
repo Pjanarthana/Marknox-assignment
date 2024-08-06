@@ -19,7 +19,7 @@ const projectsData = [
     imageUrl: "https://via.placeholder.com/300x200",
     technologies: ["JavaScript", "HTML", "CSS", "API Integration"],
     githubUrl: "https://github.com/Pjanarthana",
-    liveUrl: "https://your-weather-app.com"
+    liveUrl: "https://master--openweatherapp001.netlify.app/"
   },
   {
     id: 3,
